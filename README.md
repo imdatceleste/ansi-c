@@ -2,7 +2,7 @@
 
 I'm just doing some experiments in ANSI-C WRT performance optimization topics.
 
-### `check_dup`
+### check_dup
 
 A C-implementation of the task "check whether a character is duplicated within a given string".
 
